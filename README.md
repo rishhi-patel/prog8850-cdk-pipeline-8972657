@@ -125,4 +125,4 @@ cdk destroy
 <img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/1810594e-5ae6-4217-9bcd-2b13ab40ba49" />
 
 > **Developed by:** Rishikumar Patel (8972657)
-> Cloud DevOps Student – PROG8850, Conestoga College
+> PROG8850, Conestoga College
