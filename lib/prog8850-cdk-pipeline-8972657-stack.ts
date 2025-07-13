@@ -21,7 +21,7 @@ export class Prog8850CdkPipeline8972657Stack extends cdk.Stack {
       code: lambda.Code.fromInline(`
         exports.handler = async function(event) {
           console.log("Lambda Triggered");
-          return { statusCode: 200, body: "Hello from Lambda!" };
+          return { statusCode: 200, body: 'Hello, updated World!' };
         }
       `),
       environment: {
